@@ -400,6 +400,7 @@ Button
     background-color: #ff7200;
     transition: .5s;
     padding: 9px 30px;
+    opacity: 0.8;
 }
 
 .btn_news_color{
